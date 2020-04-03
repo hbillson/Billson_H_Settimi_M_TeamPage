@@ -1,1 +1,20 @@
-# Billson_H_Settimi_M_TeamPage
+#Rainbow Coors: Our Team
+##Dynamic Team Page for Haley Billson and Marisa Settimi
+
+##Description: 
+Learn more about the team behind the special edition Coors & Rainbow Duct Tape collaboration! To see each member's biography, click on the respective button. 
+
+##Requirements: 
+A good browser, a terminal
+
+##Built With:
+HTML
+CSS 
+JavaScript
+
+##Installation Instructions:
+Navigate to the folder you want to save the project in, clone the repository there and simply open **index.html** in a browser! 
+
+##Authors: <br>
+Developer: Haley Billson 
+Designer: Marisa Settimi
