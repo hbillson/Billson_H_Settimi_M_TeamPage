@@ -7,7 +7,9 @@
 
     const memData = [
 
-     ["Marisa", `Marisa's Description.`],
+     ["Marisa", `Hi, I'm Marisa Settimi and I am the designer in our Final Integrated Project.
+      I'm in my first year of the Interactive Media Development - 3D Visualization program 
+      at Fanshawe College. I'm 19 years old and currently live in Hamilton, Ontario.`],
      ["Haley", `Haley's Description.`]
 
     ]
